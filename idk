@@ -380,10 +380,6 @@ end
 local Tabs
 
 local Tabs = {
-    Combat = Window:AddTab({ Title = "Бой", Icon = "swords" }),
-    Visual = Window:AddTab({ Title = "Визуалы", Icon = "eye" }),
-    Teleports = Window:AddTab({ Title = "Телепорты", Icon = "rocket" }),
-    Protection = Window:AddTab({ Title = "Защита", Icon = "shield" }),
     AutoFarm = Window:AddTab({ Title = "Авто Фарм", Icon = "dollar-sign" }),
     Settings = Window:AddTab({ Title = "Настройки", Icon = "settings" })
 }
